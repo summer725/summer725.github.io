@@ -1,0 +1,21 @@
+body {
+            margin: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: rgb(119, 167, 255);
+        }
+        img {
+            float: left;
+            margin: 5px;
+        }
+        p {
+            text-align: justify;
+            font-size: 15px;
+        }
+        .center {
+            display: block;
+            margin-left: 125px;
+            margin-right: auto;
+            width: 100%;
+          }
